@@ -1,12 +1,12 @@
 .body{ background-image: url(./pix/2.jpg); 
-    background-size: cover;}
+ background-size: cover;}
 
 .nav{display: flex;  justify-content: space-between; align-items: center; padding: 0px 70px 0px 70px; background-color: purple;}
 .nav h1{ font-size: 60px; color: rgb(5, 24, 43);}
 .list a{color: rgb(5, 24, 43); display: block;}
 
 .list li{list-style: none; margin-left: 10px;}
-button:hover{background-color:black; list-style: none; margin-left: 10px;}
+button:hover{background-color:rgb(90, 13, 13); list-style: none; margin-left: 10px;}
 
 .list{display: flex;}
 .button{justify-content: none;}
